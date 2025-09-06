@@ -1,3 +1,14 @@
+'''
+Connections:
+VCC ----> 3.3V(Pin 1) or 5V (Pin 2)
+GND ----> GND (Pin 6)
+out ----> GPIO14 (Pin 8 I guess gomma wait lemme check)
+
+:)
+
+'''
+
+
 import RPi.GPIO as GPIO
 import time
 
